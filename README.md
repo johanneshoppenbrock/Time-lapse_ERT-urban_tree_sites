@@ -1,7 +1,7 @@
 # Data set | Time-Lapse ERT Inversion for the Monitoring of Soil Water Content at Urban Tree Sites 
 This repository contains raw and processed data along with the Python scripts used to prepare the data in the manuscript.
 
-Johannes Hoppenbrock,  Malkin Gerchow, Matthias Beyer, Vera J. Hörmann, Mona Quambusch, Michael W. Strohbach, Matthias Bücker: Evaluation of Lake Sediment Thickness from Water-Borne Electrical Resistivity Tomography, 2021.
+Johannes Hoppenbrock,  Malkin Gerchow, Matthias Beyer, Vera J. Hörmann, Mona Quambusch, Michael W. Strohbach, Matthias Bücker: Time-Lapse ERT Inversion for the Monitoring of Soil Water Content at Urban Tree Sites, 2025.
 Submitted to Water Resources Research.
 
 If you find this data useful in your own research, please mention this data set and/or the manuscript.

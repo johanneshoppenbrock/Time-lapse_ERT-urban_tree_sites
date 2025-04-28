@@ -13,6 +13,6 @@ Urban trees play a crucial role in mitigating climate impacts through their cool
 The directory "Temperature correction" containts all files to reproduce the temperature correction part of the paper (section 4). The directory "Unsealed park site" contains all files necessary to reproduce the inversions and figures of the unsealed park site (section 5.1 and 6). The directory "Sealed site" contains all files necessary to reproduce the inversions and figures of the sealed site (section 5.2 and 6).
 
 # Funding
-
+The project "CliMax" is funded by the Federal Ministry of Food and Agriculture as part of the German Climate Protection Programme 2022. We thank the municipality of Braunschweig for providing permissions to conduct our research and for information on the sites. We also thank our technicians and student assistants for their contribution.
 
 
